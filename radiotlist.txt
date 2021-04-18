@@ -17,8 +17,16 @@
          "RadioShortDesc":null,
          "RadioWebsite":"yabiladi",
          "RadioPic":"https://cdn.onlineradiobox.com/img/l/8/20928.v5.png"
-      }
-      
+      },
+      {
+         "ID":3,
+         "RadioName":"Radio 2M Maroc",
+         "RadioURL":""https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_2m/radio_hls_ts/index.m3u8",
+         "RadioDesc":"2M Maroc",
+         "RadioShortDesc":null,
+         "RadioWebsite":"2M",
+         "RadioPic":"https://cdn.onlineradiobox.com/img/l/8/20858.v8.png"
+      } 
    ],
    "Message":"72",
    "Result":1
