@@ -21,7 +21,7 @@
       {
          "ID":3,
          "RadioName":"Radio 2M Maroc",
-         "RadioURL":""https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_2m/radio_hls_ts/index.m3u8",
+         "RadioURL":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_2m/radio_hls_ts/index.m3u8",
          "RadioDesc":"2M Maroc",
          "RadioShortDesc":null,
          "RadioWebsite":"2M",
