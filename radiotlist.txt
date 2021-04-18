@@ -11,12 +11,12 @@
       },
       {
          "ID":2,
-         "RadioName":"Desi Music Mix",
-         "RadioURL":"http://66.23.234.242:8012/;",
-         "RadioDesc":"Desi Music Mix radio is a Desi radio streaming Hindi, Punjabi and Bhangra songs 24/7.",
+         "RadioName":"Yabiladi",
+         "RadioURL":"http://37.187.146.76:8100/;",
+         "RadioDesc":"Yabiladi",
          "RadioShortDesc":null,
-         "RadioWebsite":"http://www.desimusicmix.com/",
-         "RadioPic":"url.com/RadioPics/54.png?dt=2515202008:15:14"
+         "RadioWebsite":"yabiladi",
+         "RadioPic":"https://cdn.onlineradiobox.com/img/l/8/20928.v5.png"
       }
       
    ],
